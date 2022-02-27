@@ -1,5 +1,4 @@
-Hi I'm Jenny
-I started studying programming.
+> Hi, I'm Jenny
 
 <!---
 Jenny3760/Jenny3760 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
